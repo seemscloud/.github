@@ -1,7 +1,7 @@
 # ☁️ Seems Cloud
 
-**Seems Cloud** is a technology-driven organization focused on building tools, frameworks, and automation for modern cloud-native environments.  
-We specialize in infrastructure, observability, security, and developer productivity.
+Seems Cloud is a technology organization focused on building tools, frameworks, and automation for modern cloud-native environments.  
+The work covers infrastructure, observability, security, and developer productivity.
 
 ---
 
@@ -26,8 +26,8 @@ We specialize in infrastructure, observability, security, and developer producti
 
 ## 📌 Mission
 
-We create open-source solutions that simplify infrastructure management, improve reliability, and accelerate development workflows.  
-Our repositories reflect real-world use cases, hands-on experience, and a focus on practical engineering.
+The goal is to provide open-source solutions that simplify infrastructure management, improve reliability, and accelerate development workflows.  
+Repositories reflect real-world use cases, hands-on engineering, and practical problem-solving.
 
 ---
 
